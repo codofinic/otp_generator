@@ -1,0 +1,22 @@
+input {
+  width: 30px;
+}
+div {
+  display: flex;
+  align-items: center;
+  flex-direction: row;
+  align-items: center;
+  gap: 10px;
+}
+section {
+  border: 2px solid red;
+  width: 500px;
+  height: 200px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  margin: auto;
+  margin-top: 200px;
+  background-color: aqua;
+}
